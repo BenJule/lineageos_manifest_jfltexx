@@ -7,3 +7,10 @@ To initialize your local repository using the LineageOS trees, use a command lik
 ```
 repo init -u https://github.com/BenJule/lineageos_manifest_jfltexx.git -b n
 ```
+Then to sync up:
+
+```
+repo sync
+```
+
+* **TODO***: steps to build cm13 userdebug for gtelwifiue*
