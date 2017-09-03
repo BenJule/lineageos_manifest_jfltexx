@@ -1,2 +1,2 @@
-# lineageos_manifest_jfltexx
-test
+# LineageOS
+## Getting Started
