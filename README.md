@@ -13,4 +13,4 @@ Then to sync up:
 repo sync
 ```
 
-* **TODO**: steps to build cm-14.1 userdebug for gtelwifiue*
+* **TODO**: steps to build cm-14.1 userdebug for jfltexx
